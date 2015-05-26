@@ -29,7 +29,7 @@
 		9E7FFE02177C856600477DDE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E7FFE00177C856600477DDE /* InfoPlist.strings */; };
 		9E7FFE04177C856600477DDE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E7FFE03177C856600477DDE /* main.m */; };
 		9E7FFE08177C856600477DDE /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 9E7FFE07177C856600477DDE /* AppDelegate.mm */; };
-		9E7FFE22177C85AF00477DDE /* NativeViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 9E7FFE1D177C85AF00477DDE /* NativeViewController.mm */; };
+		9E7FFE22177C85AF00477DDE /* ExampleARELViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 9E7FFE1D177C85AF00477DDE /* ExampleARELViewController.mm */; };
 		9E93C40D194992A1001C21F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E93C40C194992A1001C21F8 /* Main.storyboard */; };
 		9E93C40F19499345001C21F8 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E93C40E19499345001C21F8 /* GLKit.framework */; };
 		9ED7381119AB636A00626EDC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ED7381019AB636A00626EDC /* Images.xcassets */; };
@@ -64,8 +64,8 @@
 		9E7FFE05177C856600477DDE /* Toyosan-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Toyosan-Prefix.pch"; sourceTree = "<group>"; };
 		9E7FFE06177C856600477DDE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9E7FFE07177C856600477DDE /* AppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
-		9E7FFE1C177C85AF00477DDE /* NativeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NativeViewController.h; sourceTree = "<group>"; };
-		9E7FFE1D177C85AF00477DDE /* NativeViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = NativeViewController.mm; sourceTree = "<group>"; };
+		9E7FFE1C177C85AF00477DDE /* ExampleARELViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleARELViewController.h; sourceTree = "<group>"; };
+		9E7FFE1D177C85AF00477DDE /* ExampleARELViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ExampleARELViewController.mm; sourceTree = "<group>"; };
 		9E93C40C194992A1001C21F8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		9E93C40E19499345001C21F8 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		9ED7381019AB636A00626EDC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -179,8 +179,8 @@
 		9E7FFE14177C85AF00477DDE /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				9E7FFE1C177C85AF00477DDE /* NativeViewController.h */,
-				9E7FFE1D177C85AF00477DDE /* NativeViewController.mm */,
+				9E7FFE1C177C85AF00477DDE /* ExampleARELViewController.h */,
+				9E7FFE1D177C85AF00477DDE /* ExampleARELViewController.mm */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -257,7 +257,7 @@
 			files = (
 				9E7FFE04177C856600477DDE /* main.m in Sources */,
 				9E7FFE08177C856600477DDE /* AppDelegate.mm in Sources */,
-				9E7FFE22177C85AF00477DDE /* NativeViewController.mm in Sources */,
+				9E7FFE22177C85AF00477DDE /* ExampleARELViewController.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
