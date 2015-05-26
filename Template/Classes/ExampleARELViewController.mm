@@ -1,7 +1,7 @@
 // Copyright 2007-2014 metaio GmbH. All rights reserved.
 #import "ExampleARELViewController.h"
 
-@implementation ExampleARELViewController 
+@implementation ExampleARELViewController
 
 //- (IBAction)onCloseButtonClicked:(UIButton*)sender
 //{
@@ -42,11 +42,6 @@
 
 
 //@end
-
-
-
-
-
 //
 //#pragma mark - UIViewController lifecycle
 //
