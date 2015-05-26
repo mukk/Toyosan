@@ -1,6 +1,5 @@
 // Copyright 2007-2014 metaio GmbH. All rights reserved.
 #import "AppDelegate.h"
-#import "ExampleARELViewController.h"
 
 @implementation AppDelegate
 
@@ -10,12 +9,6 @@
     // Override point for customization after application launch.
     return YES;
 }
-//{
-//    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-//    self.window.rootViewController = [[UIStoryboard storyboardWithName:@"Menu" bundle:nil] instantiateInitialViewController];
-//    [self.window makeKeyAndVisible];
-//    return YES;
-//}
 
 
 - (void)applicationWillResignActive:(UIApplication *)application
