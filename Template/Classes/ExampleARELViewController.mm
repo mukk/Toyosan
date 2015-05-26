@@ -41,7 +41,7 @@
 }
 
 
-@end
+//@end
 //
 //#pragma mark - UIViewController lifecycle
 //
@@ -149,10 +149,10 @@
 //#pragma mark - @protocol metaioSDKDelegate
 //
 //
-//- (void)onSDKReady
-//{
-//	NSLog(@"The SDK is ready");
-//}
+- (void)onSDKReady
+{
+	NSLog(@"The SDK is ready");
+}
 //
 //
 //- (void)onAnimationEnd:(metaio::IGeometry*) geometry  andName:(const NSString*) animationName
@@ -270,4 +270,4 @@
 //	}
 //}
 //
-//@end
+@end
