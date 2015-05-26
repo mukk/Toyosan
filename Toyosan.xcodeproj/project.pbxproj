@@ -33,7 +33,6 @@
 		9E93C40D194992A1001C21F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E93C40C194992A1001C21F8 /* Main.storyboard */; };
 		9E93C40F19499345001C21F8 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E93C40E19499345001C21F8 /* GLKit.framework */; };
 		9ED7381119AB636A00626EDC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ED7381019AB636A00626EDC /* Images.xcassets */; };
-		CEA194EA1B144FA90036EB17 /* MenuViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = CEA194E91B144FA90036EB17 /* MenuViewController.mm */; };
 		E5630B9919EFB8A3004EB03C /* templatesContent_crossplatform in Resources */ = {isa = PBXBuildFile; fileRef = E5630B9819EFB8A3004EB03C /* templatesContent_crossplatform */; };
 		F265F69019E83E8800D7E75C /* EventKitUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F265F68F19E83E8800D7E75C /* EventKitUI.framework */; };
 /* End PBXBuildFile section */
@@ -70,8 +69,6 @@
 		9E93C40C194992A1001C21F8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		9E93C40E19499345001C21F8 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		9ED7381019AB636A00626EDC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		CEA194E81B144FA90036EB17 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
-		CEA194E91B144FA90036EB17 /* MenuViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MenuViewController.mm; sourceTree = "<group>"; };
 		E5630B9819EFB8A3004EB03C /* templatesContent_crossplatform */ = {isa = PBXFileReference; lastKnownFileType = folder; name = templatesContent_crossplatform; path = ../../../templatesContent_crossplatform; sourceTree = "<group>"; };
 		F265F68F19E83E8800D7E75C /* EventKitUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKitUI.framework; path = System/Library/Frameworks/EventKitUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -157,8 +154,6 @@
 		9E7FFDFD177C856600477DDE /* Toyosan */ = {
 			isa = PBXGroup;
 			children = (
-				CEA194E81B144FA90036EB17 /* MenuViewController.h */,
-				CEA194E91B144FA90036EB17 /* MenuViewController.mm */,
 				9E7FFE06177C856600477DDE /* AppDelegate.h */,
 				9E7FFE07177C856600477DDE /* AppDelegate.mm */,
 				9ED7381019AB636A00626EDC /* Images.xcassets */,
@@ -261,7 +256,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E7FFE04177C856600477DDE /* main.m in Sources */,
-				CEA194EA1B144FA90036EB17 /* MenuViewController.mm in Sources */,
 				9E7FFE08177C856600477DDE /* AppDelegate.mm in Sources */,
 				9E7FFE22177C85AF00477DDE /* ExampleARELViewController.mm in Sources */,
 			);
