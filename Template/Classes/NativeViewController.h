@@ -9,5 +9,6 @@
 
 	BOOL m_earthOpened;					 // has the earth open animation been triggered
 }
+- (IBAction)onCloseButtonClicked:(UIButton*)sender;
 
 @end

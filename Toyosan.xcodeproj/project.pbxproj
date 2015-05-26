@@ -109,7 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				E5630B9819EFB8A3004EB03C /* templatesContent_crossplatform */,
-				9E7FFDFD177C856600477DDE /* Template */,
+				9E7FFDFD177C856600477DDE /* Toyosan */,
 				9E7FFDF6177C856600477DDE /* Frameworks */,
 				9E7FFDF5177C856600477DDE /* Products */,
 			);
@@ -151,7 +151,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		9E7FFDFD177C856600477DDE /* Template */ = {
+		9E7FFDFD177C856600477DDE /* Toyosan */ = {
 			isa = PBXGroup;
 			children = (
 				9E7FFE06177C856600477DDE /* AppDelegate.h */,
@@ -161,6 +161,7 @@
 				9E7FFE14177C85AF00477DDE /* Classes */,
 				9E7FFDFE177C856600477DDE /* Supporting Files */,
 			);
+			name = Toyosan;
 			path = Template;
 			sourceTree = "<group>";
 		};
