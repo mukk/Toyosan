@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8FA827F4-6117-4E6D-9ED4-D41A8C76CEE6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Toyosan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FCD6173B9592416D741D06F0D247A5E1733B4A15</key>
+		<string>https://github.com/mukk/Toyosan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Toyosan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FCD6173B9592416D741D06F0D247A5E1733B4A15</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mukk/Toyosan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FCD6173B9592416D741D06F0D247A5E1733B4A15</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FCD6173B9592416D741D06F0D247A5E1733B4A15</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Toyoapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
